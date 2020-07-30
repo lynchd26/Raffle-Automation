@@ -1,0 +1,20 @@
+xpaths:
+  submit: '//*[@id="mc-embedded-subscribe"]'
+  checkbox: '//*[@id="mce-MMERGE8-0"]'
+  textbox:
+    email: '//*[@id="mce-EMAIL"]'
+    first: '//*[@id="mce-FNAME"]'
+    last: '//*[@id="mce-LNAME"]'
+    phone: '//*[@id="mce-PHONE"]'
+    instagram: '//*[@id="mce-MMERGE6"]'
+  dropdown:
+    size: '//*[@id="mce-MMERGE5"]'
+
+
+input:
+  first: 'Dara'
+  last: 'Lynch'
+  phone: '0871806365'
+  email: 'daralynch01@gmail.com'
+  size: '42,5'
+  instagram: 'lynch_dara'

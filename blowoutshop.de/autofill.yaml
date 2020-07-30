@@ -1,0 +1,27 @@
+xpaths:
+  size: '//*[@id="Groesse"]'
+  submit: '//*[@id="support"]/div/div[12]/button'
+  checkbox: '//*[@id="privacy-checkbox"]'
+  textbox:
+    first: '//*[@id="vorname"]'
+    last: '//*[@id="nachname"]'
+    address: '/html/body/div[2]/div[2]/section/div/div/div[1]/div[2]/div[2]/form/div/div[3]/input'
+    city: '//*[@id="Adresse"]'
+    paypal: '//*[@id="email"]'
+    instagram: '//*[@id="Insta"]'
+  dropdown:
+    country: '//*[@id="Land"]'
+    size: '//*[@id="Groesse"]'
+    pickup: '//*[@id="Pickup"]'
+
+
+input:
+  first: 'Dean'
+  last: 'Lynch'
+  address: 'Woodlnd Pk. #37, Rush'
+  city: 'Co. Dublin'
+  country: 'Ireland'
+  paypal: 'sneakeremails@gmail.com'
+  size: '42.5'
+  instagram: 'dean_l97'
+  pickup: 'NO'
